@@ -1,14 +1,14 @@
-version: "1.0"
 info:
   model: int-scaffold
 packages:
-- name: TestProjectVersioningProject
+- gitBranch: main
   gitServerName: GH_SK_Shared
   gitUrl: https://github.com/santhu736852
   gitUsername: santhu736852
-  gitBranch: main
-- name: JcHelloWorldAPI
+  name: TestProjectVersioningProject
+- gitBranch: main
   gitServerName: GH_SK_Shared
   gitUrl: https://github.com/johnpcarter
   gitUsername: santhu736852
-  gitBranch: main
+  name: JcHelloWorldAPI
+version: '1.0'
