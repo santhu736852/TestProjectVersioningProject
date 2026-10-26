@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/santhu736852
   gitUsername: santhu736852
   gitBranch: main
+- name: JcHelloWorldAPI
+  gitServerName: GH_SK_Shared
+  gitUrl: https://github.com/johnpcarter
+  gitUsername: santhu736852
+  gitBranch: main
