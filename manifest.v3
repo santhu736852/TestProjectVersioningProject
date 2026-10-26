@@ -4,7 +4,7 @@
   <value name="enabled">yes</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
-  <value name="version">1.0.1</value>
+  <value name="version">1.0</value>
   <value name="name">TestProjectVersioningProject</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
@@ -22,6 +22,6 @@
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-10-26T08:59:37.30495223Z</value>
+  <value name="lastUpdated">2026-10-26T08:59:44.097592344Z</value>
   <value name="creator">Santhosh K</value>
 </Values>
